@@ -6,7 +6,7 @@
 
 int main()
 {
-	std::string path{"Resources/test.png"};
+	std::string path{"Resources/test.JPG"};
 	cv::Mat img = cv::imread(path);
 
 	cv::Mat imgGray, imgBlur, imgCanny, imgDil, imgErode;
