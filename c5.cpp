@@ -15,7 +15,7 @@ int main()
 	cv::Point2f src[4] = { {774, 107}, {1'019, 83}, {843,361}, {1'117,332} };
 	// dst(mapped)
 	float w{ 250 }, h{ 350 };
-	cv::Point2f dst[4] = { {0.f,0.f}, {w, 0.f}, {0.f,h}, {w,h} };
+	cv::Point2f dst[4] = { {0.f,0.f}, {w, 0.f}, {0.f,h}, {w,h} }; 
 
 	// transform
 	cv::Mat matrix = cv::getPerspectiveTransform(src, dst);

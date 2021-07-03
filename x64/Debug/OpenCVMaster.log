@@ -1,12 +1,2 @@
-﻿  c5.cpp
-C:\Users\Aurora_Boreas\Desktop\20210703 openCVcourse\OpenCVMaster\c5.cpp(22,57): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
-          with
-          [
-              _Tp=int
-          ]
-C:\Users\Aurora_Boreas\Desktop\20210703 openCVcourse\OpenCVMaster\c5.cpp(22,54): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
-          with
-          [
-              _Tp=int
-          ]
+﻿  c6.cpp
   OpenCVMaster.vcxproj -> C:\Users\Aurora_Boreas\Desktop\20210703 openCVcourse\OpenCVMaster\x64\Debug\OpenCVMaster.exe
